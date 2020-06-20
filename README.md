@@ -25,3 +25,15 @@ or add
 ```
 
 to the require section of your `composer.json` file.
+
+
+Usage
+------
+
+```
+use cinghie\simplehtmldom\SimpleHtmlDom;
+
+SimpleHTMLDom::file_get_html('http://www.google.com');
+SimpleHTMLDom::str_get_html($string);
+
+```

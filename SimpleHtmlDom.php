@@ -16,6 +16,8 @@ require_once(dirname(__FILE__) . '/simple_html_dom.php');
 
 /**
  * Class SimpleHtmlDom
+ *
+ * @see http://simplehtmldom.sourceforge.net/
  */
 class SimpleHtmlDom
 {
