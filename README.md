@@ -33,7 +33,7 @@ Usage
 ```
 use cinghie\simplehtmldom\SimpleHtmlDom;
 
-SimpleHTMLDom::file_get_html('http://www.google.com');
-SimpleHTMLDom::str_get_html($string);
+SimpleHtmlDom::file_get_html('http://www.google.com');
+SimpleHtmlDom::str_get_html($string);
 
 ```
